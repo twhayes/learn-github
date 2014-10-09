@@ -1,6 +1,12 @@
-learn-github
-============
+### Info from GSA Seminar
 
-place for notes about various github features that I learned at a seminar at GSA by Gray Brooks.
+#### Github
+* [18F Demos] (https://github.com/18F/github-demos)
 
-I'm going to add links to info that he presented and experiment with variuos features and capabilities of Github.
+#### Open Source
+* [USG Open Source Projects] (http://www.govcode.org/)
+
+
+### My Notes
+* Get started with [MarkDown] (https://guides.github.com/features/mastering-markdown/)
+
