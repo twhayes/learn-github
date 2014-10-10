@@ -6,6 +6,8 @@
 #### Open Source
 * [USG Open Source Projects] (http://www.govcode.org/)
 * [USG Open Source Resources] (http://18f.github.io/open-source-program/)
+* [USG Open Source Sandbox] (http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/)
+* [Web Site Templates for GH] (http://usg-website-templates.github.io/), includes presentations
 
 
 ### My Notes
